@@ -1,4 +1,4 @@
-# Welcome to MS Teams Clone!
+# IWT GROUP PROJECT
 
-### [Example Website](https://chat-app-jsmastery.netlify.app)
+### 
 
