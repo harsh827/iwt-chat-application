@@ -1,4 +1,4 @@
-# GROUP REALTIME CHAT APPLICATION
+# REALTIME GROUP CHAT APPLICATION
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/64656af6-d1cc-49fc-b4bb-1c6e92079449/deploy-status)](https://app.netlify.com/sites/teams-chat827/deploys)
 
@@ -15,6 +15,25 @@
 ## Demo
 Here is a working live demo :  https://teams-chat827.netlify.app/
 
+![image](https://user-images.githubusercontent.com/73309402/147388961-6ce7377d-7469-484c-94b0-36b40b09bac4.png)
+
+![image](https://user-images.githubusercontent.com/73309402/147388964-97b53162-4fe9-4a66-a623-316c470009a8.png)
+
+
+### To chat, use the following user-password  credentials
+
+-  NAME, PASSWORD
+
+- Akshat, 123
+- Riya, 14
+- Tanisha, 15
+- Ankita, 16
+- Nancy, 17
+- John, 18
+- Paul, 19
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 ## Features
 
