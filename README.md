@@ -13,7 +13,7 @@
 
 
 ## Demo
-Here is a working live demo :  https://teams-chat827.netlify.app/
+<!-- Here is a working live demo :  https://teams-chat827.netlify.app/  -->
 
 ![image](https://user-images.githubusercontent.com/73309402/147388961-6ce7377d-7469-484c-94b0-36b40b09bac4.png)
 
